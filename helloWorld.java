@@ -1,3 +1,4 @@
+/* This will have the same output of "Hello World" from string to characters to arrays.*/
 public class helloWorld{
 
 public static void main(String[] args){
